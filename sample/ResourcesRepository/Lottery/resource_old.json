@@ -1,0 +1,25 @@
+{
+  "name": "Lottery",
+  "read": {
+    "protocol": "http",
+    "httpConfig": {
+      "domain": "https://jackpocket.com",
+      "headers": {
+        "authorization": "Basic N0V5RkIxZzRJM2x6c0oyNzEwNm9BUG83NzJkaDdVNFA6",
+        "content-encoding": "gzip"
+      },
+      "read": {
+        "allowed": true,
+        "method": "GET"
+      },
+      "write": {
+        "allowed": false
+      }
+    },
+    "schema": {
+      "id": "number",
+      "name": "string",
+      "jackpot_value": "string"
+    }
+  }
+}

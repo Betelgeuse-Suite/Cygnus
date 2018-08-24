@@ -1,0 +1,1 @@
+../Lottery/.bin/ts/resource.d.ts

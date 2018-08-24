@@ -1,0 +1,22 @@
+{
+  "name": "cygnus",
+  "version": "0.0.0",
+  "description": "A simpler Proto Buffs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel C. Troia",
+  "license": "ISC",
+  "dependencies": {
+    "@types/bluebird": "^3.5.23",
+    "@types/express": "^4.16.0",
+    "Promise": "^1.0.5",
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3"
+  }
+}

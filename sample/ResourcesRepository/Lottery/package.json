@@ -1,0 +1,12 @@
+{
+  "name": "lottery-resource",
+  "version": "0.0.0",
+  "description": "",
+  "main": "clients/ts/index.js",
+  "types": "clients/ts/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
